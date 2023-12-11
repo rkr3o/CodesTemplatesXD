@@ -1,2 +1,2 @@
-Templates that can easy to understand and use .
+Templates : easy to understand and use .
 xd:>
